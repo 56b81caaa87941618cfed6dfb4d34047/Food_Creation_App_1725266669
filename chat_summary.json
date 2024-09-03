@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"failure\", \"qna\": [], \"error\": \"qnaExpecting ',' delimiter: line 2 column 153 (char 306)\", \"time_taken\": \"0:00:01.100544\"}",
+        "timestamp": "03092024071710",
+        "message_id": "guest03092024071706"
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I'm adding a button with the text \"Free.\"",
         "timestamp": "03092024071708",
