@@ -8,6 +8,30 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a button with customizable text\", \"checked\": true}, {\"feature\": \"Add a button with an icon\", \"checked\": false}, {\"feature\": \"Include a toggle button\", \"checked\": false}, {\"feature\": \"Implement a call-to-action button with color options\", \"checked\": false}, {\"feature\": \"Create a button that links to another page\", \"checked\": false}], \"input_token_count\": 277, \"output_token_count\": 94, \"time_taken\": \"0:00:01.630548\"}",
+        "message_id": "guest03092024072207",
+        "timestamp": "03092024072214",
+        "component_file_name": "simple_cta_component_1725266672",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "In the conversation, the user requested to add a button with the text \"Free.\" The AI assistant acknowledged this request, stating, \"Okay, I'm adding a button with the text 'Free.'\" Additionally, the user encountered an error message indicating a failure status with no provided Q&A and specifying an error related to a missing delimiter in the input. The assistant was also noted to be trained on data up to October 2023.",
+        "timestamp": "03092024072214",
+        "message_id": "guest03092024072207"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What text would you like the new button to display?\", \"option1\": \"Submit\", \"option2\": \"Cancel\"}, {\"question 2\": \"Where would you like the button to be placed within the app?\", \"option1\": \"At the top of the screen\", \"option2\": \"At the bottom of the screen\"}], \"input_token_count\": 323, \"output_token_count\": 82, \"time_taken\": \"0:00:01.373690\"}",
+        "message_id": "guest03092024072207",
+        "timestamp": "03092024072211",
+        "component_file_name": "simple_cta_component_1725266672",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a button",
         "message_id": "guest03092024072207",
@@ -24,12 +48,6 @@
         "component_file_name": "",
         "div_id": "",
         "div_action": ""
-    },
-    {
-        "role": "summary",
-        "content": "add a button with text Free",
-        "timestamp": "03092024072208",
-        "message_id": "guest03092024072207"
     },
     {
         "role": "chat_ui_checklist",
@@ -73,24 +91,6 @@
         "message_id": "guest03092024071706",
         "timestamp": "03092024071713",
         "component_file_name": "simple_footer_component_1725266672",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"failure\", \"qna\": [], \"error\": \"qnaExpecting ',' delimiter: line 2 column 153 (char 306)\", \"time_taken\": \"0:00:01.100544\"}",
-        "message_id": "guest03092024071706",
-        "timestamp": "03092024071710",
-        "component_file_name": "simple_footer_component_1725266672",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Okay, I'm adding a button with the text \"Free.\"",
-        "message_id": "guest03092024071706",
-        "timestamp": "03092024071708",
-        "component_file_name": "",
         "div_id": "",
         "div_action": ""
     }
