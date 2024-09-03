@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What text would you like the new button to display?\", \"option1\": \"Submit\", \"option2\": \"Cancel\"}, {\"question 2\": \"Where would you like the button to be placed within the app?\", \"option1\": \"At the top of the screen\", \"option2\": \"At the bottom of the screen\"}], \"input_token_count\": 323, \"output_token_count\": 82, \"time_taken\": \"0:00:01.373690\"}",
+        "message_id": "guest03092024072207",
+        "timestamp": "03092024072211",
+        "component_file_name": "simple_cta_component_1725266672",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a button",
         "message_id": "guest03092024072207",
