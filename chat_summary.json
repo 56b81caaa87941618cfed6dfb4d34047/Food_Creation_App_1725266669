@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a button with customizable text\", \"checked\": true}, {\"feature\": \"Include button color options\", \"checked\": false}, {\"feature\": \"Add button hover effects\", \"checked\": false}, {\"feature\": \"Enable button size adjustments\", \"checked\": false}, {\"feature\": \"Allow grouping of buttons with headers\", \"checked\": false}], \"input_token_count\": 260, \"output_token_count\": 85, \"time_taken\": \"0:00:01.398085\"}",
+        "timestamp": "03092024072059",
+        "message_id": "guest03092024072052"
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific functionality do you want this new button to have?\", \"option1\": \"Link to another page\", \"option2\": \"Trigger a specific action in the app\"}, {\"question 2\": \"Where would you like this button to be positioned in the app?\", \"option1\": \"At the bottom of the screen\", \"option2\": \"In the main menu\"}], \"input_token_count\": 306, \"output_token_count\": 90, \"time_taken\": \"0:00:01.340464\"}",
         "timestamp": "03092024072056",
