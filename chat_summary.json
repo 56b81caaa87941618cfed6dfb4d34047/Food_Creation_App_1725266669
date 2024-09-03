@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_acknowledge",
+        "content": "Okay, I'm adding a button with the text \"Free.\"",
+        "timestamp": "03092024071708",
+        "message_id": "guest03092024071706"
+    },
+    {
         "role": "user",
         "content": "add a button with text Free",
         "timestamp": "03092024071707",
