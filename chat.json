@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"failure\", \"qna\": [], \"error\": \"qnaExpecting ',' delimiter: line 2 column 153 (char 306)\", \"time_taken\": \"0:00:01.100544\"}",
+        "message_id": "guest03092024071706",
+        "timestamp": "03092024071710",
+        "component_file_name": "simple_footer_component_1725266672",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I'm adding a button with the text \"Free.\"",
         "message_id": "guest03092024071706",
