@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a button with custom text input\", \"checked\": true}, {\"feature\": \"Add a button for sharing on social media\", \"checked\": false}, {\"feature\": \"Add a button that reveals a recipe\", \"checked\": false}, {\"feature\": \"Add a button to save favorite foods\", \"checked\": true}, {\"feature\": \"Add a multifunctional action button\", \"checked\": false}], \"input_token_count\": 355, \"output_token_count\": 96, \"time_taken\": \"0:00:01.347266\"}",
+        "message_id": "guest03092024072332",
+        "timestamp": "03092024072339",
+        "component_file_name": "simple_cta_component_1725266672",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific text would you like on the new button?\", \"option1\": \"Add text 'Submit'\", \"option2\": \"Add text 'Cancel'\"}, {\"question 2\": \"Where would you like the button to be positioned within the app?\", \"option1\": \"Top right corner\", \"option2\": \"Bottom center\"}], \"input_token_count\": 401, \"output_token_count\": 82, \"time_taken\": \"0:00:01.207757\"}",
         "message_id": "guest03092024072332",
