@@ -12,7 +12,7 @@ INSTRUCTION: Both of these lines are center aligned.
                 <div class="flex">
                     <a id="footer-logo-link" href="#" class="flex-1 flex items-center justify-center mb-5 text-2xl font-semibold text-gray-900 dark:text-white">
                         <img id="footer-logo" src="./images/logo.svg" class="h-6 mr-3 sm:h-9" alt="Landwind Logo" />
-                        STARTER_TEMPLATE_APPLICATION_NAME
+                        Starter Template Classes with editor
                     </a>
                 </div>
             </div>
