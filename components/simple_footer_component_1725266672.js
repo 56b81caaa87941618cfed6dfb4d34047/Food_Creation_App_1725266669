@@ -18,7 +18,7 @@ INSTRUCTION: Both of these lines are center aligned.
             </div>
             <div class="flex">
                 <div id="footer-text" class="flex-1 block text-sm text-center text-gray-500 dark:text-gray-400">
-                    STARTER_TEMPLATE_FOOTER_ footer-content
+                    STARTER_TEMPLATE_FOOTER_ footer-content Thi is Something i wanted
                 </div>
             </div>
         </div>
