@@ -21,6 +21,12 @@ INSTRUCTION: Both of these lines are center aligned.
                     STARTER_TEMPLATE_FOOTER_ footer-content Thi is Something i wanted
                 </div>
             </div>
+            <div class="flex justify-center mt-4">
+                <button class="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded shadow-lg">
+                    Free
+                </button>
+            </div>
+        </div>
         </div>
     </footer>
 </template>
