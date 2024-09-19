@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the button to be placed within the app?\", \"option1\": \"At the top of the page\", \"option2\": \"At the bottom of the page\"}, {\"question 2\": \"What style would you prefer for the button?\", \"option1\": \"Rounded corners\", \"option2\": \"Sharp corners\"}], \"input_token_count\": 483, \"output_token_count\": 82, \"time_taken\": \"0:00:01.676916\"}",
+        "message_id": "guest19092024122234",
+        "timestamp": "19092024122246",
+        "component_file_name": "simple_footer_component_1725266672",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I'll add a button with the text 'Free'.",
         "message_id": "guest19092024122234",
